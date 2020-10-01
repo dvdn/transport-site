@@ -337,3 +337,11 @@ msgstr "format de la ressource"
 #, elixir-format
 msgid "see other formats"
 msgstr "autres formats"
+
+#, elixir-format
+msgid "Dataset feature"
+msgstr "Caractéristique du jeu de données"
+
+#, elixir-format
+msgid "Dataset mode"
+msgstr "Mode présent dans le jeu de données"

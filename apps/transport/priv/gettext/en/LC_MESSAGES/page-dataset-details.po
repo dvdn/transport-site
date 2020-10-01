@@ -337,3 +337,11 @@ msgstr ""
 #, elixir-format
 msgid "see other formats"
 msgstr ""
+
+#, elixir-format
+msgid "Dataset feature"
+msgstr ""
+
+#, elixir-format
+msgid "Dataset mode"
+msgstr ""
